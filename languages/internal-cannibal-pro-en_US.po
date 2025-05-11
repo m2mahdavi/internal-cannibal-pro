@@ -1,0 +1,29 @@
+msgid "Keyword Cannibalization Report"
+msgstr "Keyword Cannibalization Report"
+
+msgid "Detected Cannibalized Keywords:"
+msgstr "Detected Cannibalized Keywords:"
+
+msgid "Settings saved successfully."
+msgstr "Settings saved successfully."
+
+msgid "Enable Redirect Checker"
+msgstr "Enable Redirect Checker"
+
+msgid "Enable Content Merge Suggestions"
+msgstr "Enable Content Merge Suggestions"
+
+msgid "Get Suggestions from AI"
+msgstr "Get Suggestions from AI"
+
+msgid "Analyzing content with OpenAI..."
+msgstr "Analyzing content with OpenAI..."
+
+msgid "Are you sure you want to merge selected contents?"
+msgstr "Are you sure you want to merge selected contents?"
+
+msgid "Redirect created successfully."
+msgstr "Redirect created successfully."
+
+msgid "Failed to create redirect."
+msgstr "Failed to create redirect."

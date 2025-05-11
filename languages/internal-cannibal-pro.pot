@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Internal Cannibal Pro
+# This file is distributed under the same license as the Internal Cannibal Pro package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Internal Cannibal Pro 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-11 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT POT Generator\n"
+
+msgid "Keyword Cannibalization Checker"
+msgstr ""
+
+msgid "Analyze internal links for keyword conflicts."
+msgstr ""
+
+msgid "Check Now"
+msgstr ""
+
+msgid "Redirect Detected"
+msgstr ""
+
+msgid "Merge Suggested"
+msgstr ""
+
+msgid "OpenAI Integration Active"
+msgstr ""
+
+msgid "No cannibalization issues found."
+msgstr ""
+
+msgid "Potential Cannibal Pages:"
+msgstr ""
+
+msgid "Primary Target Keyword"
+msgstr ""
+
+msgid "Suggested Action"
+msgstr ""
+
+msgid "Merge Content"
+msgstr ""
+
+msgid "Edit Content"
+msgstr ""
+
+msgid "Redirect Page"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Enable OpenAI Integration"
+msgstr ""
+
+msgid "Your OpenAI API Key"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Internal Redirect Checker"
+msgstr ""
+
+msgid "Keyword Tree Visualization (Coming Soon)"
+msgstr ""
+
+msgid "Security check failed."
+msgstr ""
+
+msgid "Permission denied."
+msgstr ""

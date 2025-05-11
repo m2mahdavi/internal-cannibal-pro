@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internal Cannibal Pro\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: fa\n"
+"Language-Team: Mohsen Mahdavi <moma2work@gmail.com>\n"
+"Last-Translator: Mohsen Mahdavi <moma2work@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+
+#: internal-cannibal-pro.php:10
+msgid "Internal Cannibalization Detector"
+msgstr "تشخیص کنیبالیزیشن داخلی"
+
+#: class-admin-ui.php:22
+msgid "Keyword Cannibalization Report"
+msgstr "گزارش کنیبالیزیشن کلمات کلیدی"
+
+#: class-admin-ui.php:25
+msgid "Analyze Now"
+msgstr "اکنون تحلیل کن"
+
+#: class-settings.php:15
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: class-settings.php:35
+msgid "Enable Redirect Check"
+msgstr "فعال‌سازی بررسی ریدایرکت"
+
+#: class-settings.php:36
+msgid "Enable OpenAI Suggestions"
+msgstr "فعال‌سازی پیشنهادات OpenAI"
+
+#: class-keyword-analyzer.php:40
+msgid "Analyzing content for keywords..."
+msgstr "در حال تحلیل محتوا برای یافتن کلمات کلیدی..."
+
+#: class-cannibal-detector.php:52
+msgid "Found possible keyword cannibalization between:"
+msgstr "کنیبالیزیشن احتمالی کلمات کلیدی یافت شد بین:"
+
+#: class-content-merger.php:29
+msgid "Suggest merging the following posts:"
+msgstr "پیشنهاد ادغام پست‌های زیر:"
+
+#: class-redirect-checker.php:45
+msgid "Checking internal redirects..."
+msgstr "در حال بررسی ریدایرکت‌های داخلی..."
+
+#: class-openai-integration.php:60
+msgid "Fetching suggestions from ChatGPT..."
+msgstr "در حال دریافت پیشنهادات از ChatGPT..."
+
+#: admin.js:10
+msgid "Loading..."
+msgstr "در حال بارگذاری..."
+
+#: admin.js:20
+msgid "No cannibalization issues found."
+msgstr "هیچ مشکلی از نظر کنیبالیزیشن یافت نشد."
+
+#: admin.js:21
+msgid "Merge Suggested"
+msgstr "ادغام پیشنهاد شد"
+
+#: uninstall.php:10
+msgid "Cleaning up plugin data..."
+msgstr "در حال پاک‌سازی داده‌های افزونه..."
